@@ -41,11 +41,3 @@ Below is a preview of the game:
 
 ## 🤝 Contributing
 Feel free to contribute to this project. If you find any issues, open a pull request or create an issue.
-
-## 📜 License
-This project is licensed under the MIT License.
-
----
-
-Happy Coding! 🎮
-
