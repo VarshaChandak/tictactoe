@@ -1,12 +1,17 @@
 # Tic-Tac-Toe
 
-Tic-Tac-Toe is a simple yet fun two-player game where players take turns marking spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
+🎮 Tic-Tac-Toe Game
+Tic-Tac-Toe is a classic two-player game where players take turns marking spaces in a 3×3 grid. The first player to align three marks horizontally, vertically, or diagonally wins the game.
+
+
 
 ## 📌 Features
-- Two-player mode
-- Interactive UI
-- Simple and easy-to-use design
-- Instant win detection
+✅ Two-Player Mode – Play against a friend in real-time.
+✅ Interactive UI – Engaging and responsive design for smooth gameplay.
+✅ User-Friendly Design – Simple, intuitive, and easy to navigate.
+✅ Instant Win Detection – Automatically detects the winner or a draw.
+
+Enjoy the timeless fun of Tic-Tac-Toe with a clean and modern interface! 🎲✨
 
 ## 📷 Screenshot
 Below is a preview of the game:
