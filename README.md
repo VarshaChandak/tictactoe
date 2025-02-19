@@ -21,17 +21,6 @@ Below is a preview of the game:
 - CSS
 - JavaScript
 
-## 🚀 How to Run the Project
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/11Yashyadav/tic-tac-toe.git
-   ```
-2. Navigate to the project folder:
-   ```sh
-   cd tic-tac-toe
-   ```
-3. Open **index.html** in your browser.
-
 ## 📝 How to Play
 1. Player 1 (X) and Player 2 (O) take turns placing their marks in empty squares.
 2. The first player to get **three marks in a row (horizontal, vertical, or diagonal) wins**.
